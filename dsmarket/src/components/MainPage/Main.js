@@ -205,6 +205,7 @@ const Main = () => {
             </MainBlock>
         </>
     );
+
 };
 
 export default Main;
