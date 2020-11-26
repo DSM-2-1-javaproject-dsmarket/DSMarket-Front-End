@@ -1,9 +1,13 @@
 export {default as arrow1} from './arrow1.png'
 export {default as arrow2} from './arrow2.png'
 export {default as arrow3} from './arrow3.png'
+export {default as arrow4} from './arrow4.png'
 export {default as camera} from './camera.png'
 export {default as logo1} from './logo1.png'
 export {default as logo2} from './logo2.png'
 export {default as person} from './person.png'
 export {default as search} from './search.png'
 export {default as edit} from './edit.png'
+export {default as edit2} from './edit2.png'
+export {default as product1} from './product1.png'
+
