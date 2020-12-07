@@ -2,7 +2,7 @@ import React from 'react';
 import * as S from '../../assets/style/SignUp/signUpForm';
 import { logo2, logo3 } from '../../assets/img'
 
-const SignUp = () => {
+const SignUpSuccess = () => {
     return(
         <S.allContainer>
             <S.container>
@@ -35,4 +35,4 @@ const SignUp = () => {
     )
 }
 
-export default SignUp;  
+export default SignUpSuccess;  
